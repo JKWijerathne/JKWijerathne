@@ -81,23 +81,12 @@ I enjoy solving real-world problems, learning modern technologies, and continuou
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JKWijerathne&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JKWijerathne&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
 
 </div>
 
----
 
 # 🌐 Connect With Me
 
