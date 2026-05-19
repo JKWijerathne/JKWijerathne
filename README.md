@@ -87,6 +87,18 @@ I enjoy solving real-world problems, learning modern technologies, and continuou
 
 </div>
 
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JKWijerathne&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
 
 # 🌐 Connect With Me
 
