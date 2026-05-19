@@ -119,6 +119,5 @@ I enjoy solving real-world problems, learning modern technologies, and continuou
 
 ### ✨ “Code. Learn. Build. Grow.” ✨
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
 
 </div>
