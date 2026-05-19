@@ -1,79 +1,124 @@
-<h1 align="center">Hi, I'm Janani Wijerathne</h1>
+<div align="center">
 
-<p align="left">
-Software Engineering Undergraduate at the University of Kelaniya with a passion for turning ideas into impact. 
-I thrive on solving problems, building with purpose, and growing through collaboration. 
-Fueled by creativity and a growth mindset.
+#  Hi, I'm Janani Wijerathne 
+
+### 💻 Software Engineering Undergraduate | 🚀 Full-Stack Developer | 🌱 Lifelong Learner
+
+<p align="center">
+Passionate about building impactful digital experiences through clean code, creativity, and collaboration.  
+I enjoy solving real-world problems, learning modern technologies, and continuously improving as a developer.
 </p>
 
-<!-- Programming Languages -->
-<h3 align="left">Programming Languages:</h3>
-<p align="left">
-<a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" style="margin-right:15px;"/>
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Software+Engineering+Undergraduate;React+%7C+Spring+Boot+%7C+Node.js;Always+Learning+New+Things+🚀" />
 
-<a href="https://www.java.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" style="margin-right:15px;"/>
-</a>
+</div>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" style="margin-right:15px;"/>
-</a>
+---
 
-<a href="https://www.php.net" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-</a>
+# 🛠️ Skills & Technologies
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 💻 Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 </p>
 
-<!-- Frameworks -->
-<h3 align="left">Frameworks & Libraries:</h3>
-<p align="left">
-<a href="https://reactjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" style="margin-right:15px;"/>
-</a>
+</td>
 
-<a href="https://flutter.dev" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" style="margin-right:15px;"/>
-</a>
+<td align="center" width="33%">
 
-<a href="https://spring.io/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
-</a>
+### ⚙️ Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,php" />
 </p>
 
-<!-- Databases -->
-<h3 align="left">Databases:</h3>
-<p align="left">
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" style="margin-right:15px;"/>
-</a>
+</td>
 
-<a href="https://www.postgresql.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-</a>
+<td align="center" width="33%">
+
+### 🗄️ Databases & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postman,git,github,docker,aws,vscode,figma" />
 </p>
 
-<!-- Tools -->
-<h3 align="left">Tools & Technologies:</h3>
-<p align="left">
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" style="margin-right:15px;"/>
-</a>
+</td>
+</tr>
+</table>
 
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" style="margin-right:15px;"/>
-</a>
+---
 
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-</a>
+# 👩‍💻 Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,java,js,php,python" />
 </p>
 
-<!-- Connect -->
-<h3 align="left">Connect:</h3>
-<p align="left">
+---
+
+# 🚀 Frameworks & Libraries
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,flutter,spring,bootstrap,tailwind,nodejs,express" />
+</p>
+
+---
+
+# 🗄️ Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
 <a href="https://linkedin.com/in/janani-wijerathne" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="55" />
 </a>
-</p>
+
+<a href="mailto:your_email@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="55" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ “Code. Learn. Build. Grow.” ✨
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
+
+</div>
